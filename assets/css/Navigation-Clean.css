@@ -80,7 +80,7 @@
 }
 
 .highlight-clean {
-  background: url('../../assets/img/main_page.png');
+  background: url('/assets/img/main_page.png');
   background-size: cover;
   text-align: center;
 }
