@@ -88,3 +88,15 @@ p {
   font-family: 'Roboto';
 }
 
+@media (min-width: 2600px) {
+  #title-header {
+    font-size: 300px !important;
+  }
+}
+
+@media (min-width: 2600px) {
+  p {
+    font-size: 25px;
+  }
+}
+
